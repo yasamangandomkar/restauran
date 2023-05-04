@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/restauran/static/css/main.f5ee6094.css",
+    "main.js": "/restauran/static/js/main.00fad5f0.js",
+    "static/js/787.aab8bd84.chunk.js": "/restauran/static/js/787.aab8bd84.chunk.js",
+    "static/media/menu.png": "/restauran/static/media/menu.41e3b6a25dfea4d62056.png",
+    "static/media/welcome.png": "/restauran/static/media/welcome.2561b00496d9ec523296.png",
+    "static/media/laurels.png": "/restauran/static/media/laurels.a7fb1d8b3bad8349bfde.png",
+    "static/media/chef.png": "/restauran/static/media/chef.7f6151cc6183504a1f5b.png",
+    "static/media/gallery04.png": "/restauran/static/media/gallery04.267c4c9febdb7dfbdf7f.png",
+    "static/media/knife.png": "/restauran/static/media/knife.aa055d9cc1fb48872172.png",
+    "static/media/gallery03.png": "/restauran/static/media/gallery03.84b6aa91fd597160a1fc.png",
+    "static/media/gallery02.png": "/restauran/static/media/gallery02.1dafad5a1e360d4081dc.png",
+    "static/media/gallery01.png": "/restauran/static/media/gallery01.d9a3943b3d89ced85731.png",
+    "static/media/bg.png": "/restauran/static/media/bg.c3c063e72d5b61320891.png",
+    "index.html": "/restauran/index.html",
+    "main.f5ee6094.css.map": "/restauran/static/css/main.f5ee6094.css.map",
+    "main.00fad5f0.js.map": "/restauran/static/js/main.00fad5f0.js.map",
+    "787.aab8bd84.chunk.js.map": "/restauran/static/js/787.aab8bd84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5ee6094.css",
+    "static/js/main.00fad5f0.js"
+  ]
+}
